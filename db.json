@@ -1,5 +1,12 @@
 {
   "musicas" : [
+    
+   {
+      "titulo" : "Chopsticks" ,
+      "genero " : "Romantica-Valsa" ,
+      "compositor" : "Arthur de Lulli" ,
+      "ano" : 1877
+    },
     {
       "titulo" : "Sonata ao Luar" ,
       "genero" : "Classico-Romantica" ,
@@ -17,12 +24,6 @@
       "genero" : "Romantica" ,
       "compositor" : "Wolfgang Amadeus Mozart" ,
       "ano" : 1891 
-    },
-   {
-      "titulo" : "Chopsticks" ,
-      "genero " : "Romantica-Valsa" ,
-      "compositor" : "Arthur de Lulli" ,
-      "ano" : 1877
     },
     {
       "titulo" : "Sinfonia do Novo Mundo" ,
