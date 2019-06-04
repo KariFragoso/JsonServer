@@ -1,28 +1,35 @@
 {
 	"musicas":[
 	{
+	"url": "https://www.modernscore.com/media/catalog/product/cache/2/image/9df78eab33525d08d6e5fb8d27136e95/p/a/partition_Arthur_de_Lulli_Chopsticks_7086_1.jpg",
 	"titulo": "Chopsticks",
 	"genero": "Romantica-Valsa",
 	"ano": 1877,
 	"compositor": "Arthur de Lulli"
 	},
 	{
+	"url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfstZkuwq0WXy2Qbu0oTLpYfhJxnVsUULGyA-EdHY8vdedrKM-",
 	"titulo": "Sonata ao Luar",
 	"genero": "Classico-Romantica",
 	"ano": 1801,
 	"compositor": "Ludwig Van Beethoven"
 	},
 	{
+	"url":"https://cdn.smehost.net/masterworksbroadwaycom-45pressprod/wp-content/uploads/2015/02/HISL005_EC175_H_0.jpg",
 	"titulo": "Rhapsody in blue",
 	"genero": "Blue-Jazz",
 	"ano": 1924,
 	"compositor": "George Gershwin"
-	},	{
+	},	
+	{
+	"url":"https://n.i.uol.com.br/licaodecasa/biografias/mozart-biog.jpg",
 	"titulo": "Concerto em Lá -K622",
 	"genero": "Classico-Romantica",
 	"ano": 1891,
 	"compositor": "Wolfgang Amadeus Mozart"
-	},	{
+	},	
+	{
+	"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/JohannesBrahms.jpg/200px-JohannesBrahms.jpg",
 	"titulo": "Hungarian Dance n° 5",
 	"genero": "Classico-Romantica",
 	"ano": 1833,
