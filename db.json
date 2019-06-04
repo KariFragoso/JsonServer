@@ -1,41 +1,32 @@
 {
-  "musicas" : [
-    
-   {
-      "titulo" : "Chopsticks" ,
-      "genero " : "Romantica-Valsa" ,
-      "compositor" : "Arthur de Lulli" ,
-      "ano" : 1877
-    },
-    {
-      "titulo" : "Sonata ao Luar" ,
-      "genero" : "Classico-Romantica" ,
-      "compositor" : "Ludwig van Beethoven" ,
-      "ano" : 1801
-    },
-   {
-      "titulo" : "Rhapsody in Blue" ,
-      "genero" : "Blue-Jazz" ,
-      "compositor" : "George Gershwin" ,
-      "ano" : 1924
-    },
-   {
-      "titulo" : "Concerto em Lá maior - K622" ,
-      "genero" : "Romantica" ,
-      "compositor" : "Wolfgang Amadeus Mozart" ,
-      "ano" : 1891 
-    },
-    {
-      "titulo" : "Sinfonia do Novo Mundo" ,
-      "genero" : "Classico-Romantica" ,
-      "compositor" : "Antonín Dvořák" ,
-      "ano" : 1893
-    },
-     {
-      "titulo" : "Hungarian Dance n° 5" ,
-      "genero" : "Classico-Romantica" ,
-      "compositor" : "Johannes Brahms" ,
-      "ano" : 1833
-    }
-  ]
+	"musicas":[
+	{
+	"titulo": "Chopsticks",
+	"genero": "Romantica-Valsa",
+	"ano": 1877,
+	"compositor": "Arthur de Lulli"
+	},
+	{
+	"titulo": "Sonata ao Luar",
+	"genero": "Classico-Romantica",
+	"ano": 1801,
+	"compositor": "Ludwig Van Beethoven"
+	},
+	{
+	"titulo": "Rhapsody in blue",
+	"genero": "Blue-Jazz",
+	"ano": 1924,
+	"compositor": "George Gershwin"
+	},	{
+	"titulo": "Conceuhasduis",
+	"genero": "asdasd",
+	"ano": 57567,
+	"compositor": "adsasd"
+	},	{
+	"titulo": "adasd",
+	"genero": "asdasd",
+	"ano": 7876,
+	"compositor": "sfsdf"
+	}
+	]
 }
